@@ -68,3 +68,5 @@ AI methods:
 * [PlantVillage Dataset](https://www.kaggle.com/emmarex/plantdisease) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 * Inspired by various real-world applications such as Plantix and Nuru AI
 * Thanks to Reaktor & University of Helsinki for the Building AI course
+
+![Image of app](/DALL·E 2025-03-25 09.28.25 - An illustrative image showing a farmer using a smartphone to take a photo of a diseased plant in a green field. The phone screen shows an AI-powered a.webp)
